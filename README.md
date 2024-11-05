@@ -1,6 +1,6 @@
 # RocktheCode_P08
 
-# Movie Poster API 
+# Movie Poster API 🎬
 This project is a web application that manages a collection of movie posters and artists. It utilizes a MongoDB database to store data and Cloudinary for image uploads and storage. The application features RESTful API endpoints to perform CRUD operations on both posters and artists.
 
 
